@@ -29,4 +29,4 @@ This script creates a Python virtual environment in current working directory us
 py <python_version> <venv_name>
 ```
 
-For example: `py 3.11.3 myenv`
+For example: `py 3.11.3 venv`
